@@ -1,0 +1,19 @@
+.toolbox{
+    margin-top: 20px;
+    margin-left: 44px; 
+    height:545px;
+    overflow-y: scroll;
+    border : 2px solid #f0f0f4;
+}
+.canvas{
+    margin-top: 20px;
+    margin-left: 5px; 
+    border : 2px solid #f0f0f4;
+    background:url(../assets/WHX-paper-_0013_Grid5mmDarkGrey.pdf_f775799a-7362-49ce-aca0-530037f985ba_2048x2048.jpg);
+}
+#right  img{
+    cursor: move;
+    width:25%;
+    height:25%;
+
+}
